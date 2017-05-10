@@ -1,6 +1,8 @@
 # Coursellor
 An Online Guidance Counsellor
 
+Video Demo: https://www.youtube.com/watch?v=NHJ4m_zVoqQ&t=45s
+
 ## Overview
 Use Stack Exchange API to obtain data and statistics in order to generate course information among a specific group of users. Use information generated to create a recommendation for online courses that students must take through a web application platform.
 
